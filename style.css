@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 25px;
+width: 100%;
+margin: 0px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px white;
+    margin-top: 135px;
+}
+
+.footer{
+
+    bottom: 0;
+    width: 100%;
+    position:fixed;
+    text-align: center;
+    background-color: white;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+}
